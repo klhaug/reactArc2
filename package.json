@@ -10,8 +10,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@fseehawer/react-circular-slider": "^3.2.7",
+    "@tsparticles/react": "^3.0.0",
+    "@tsparticles/slim": "^3.9.1",
+    "node": "^22.18.0",
     "react": "^19.1.0",
-    "react-dom": "^19.1.0"
+    "react-dom": "^19.1.0",
+    "react-particles": "^2.12.2"
   },
   "devDependencies": {
     "@eslint/js": "^9.30.1",

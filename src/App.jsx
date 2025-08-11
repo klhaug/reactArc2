@@ -1,7 +1,6 @@
 
-import './App.css'
-import ToDo from './projects/ToDo.jsx'
-import DogSearch from './projects/DogSearch.jsx'
+import ToDo from './projects/ToDo/ToDo.jsx'
+import DogSearch from './projects/DogSearch/DogSearch.jsx'
 import { useState } from 'react';
 import CircularSlider from '@fseehawer/react-circular-slider';
 

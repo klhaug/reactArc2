@@ -15,6 +15,10 @@ dist-ssr
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
+.dockerignore
+compose.yaml
+Dockerfile
+README.Docker.md
 .idea
 .env
 .DS_Store

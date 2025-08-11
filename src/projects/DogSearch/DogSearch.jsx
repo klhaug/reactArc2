@@ -1,4 +1,5 @@
 import { useState, useEffect, useRef } from 'react';
+import "./DogSearch.css"
 
 export default function DogSearch(){
 const [query, setQuery] = useState("")

@@ -25,13 +25,11 @@ export default function MobilityCalc(){
         max={1000}
         trackSize={24}
         progressSize={24}
-        
         onChange={value => setValue(value)} />
       <fieldset className="average-life">
         <legend>Gjennomsnittlig levetid per telefon</legend>
           <input id="18" name="average-age" onChange={(e) => setAge(e.target.value)} value={18} type="radio" />
           <label htmlFor="18"> 18mnd</label>
-      
           <input id="24" name="average-age" onChange={(e) => setAge(e.target.value)} value={24} type="radio" />
           <label htmlFor="24"> 24mnd</label>
 

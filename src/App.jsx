@@ -13,6 +13,7 @@ export default function App() {
         <h1>A page dedicated for practise. For repitition. For screwing up.</h1>
       </header>
       <main>
+        
         {/*<MobilityCalc /> */}
         {/* <ToDo /> */}
         {/* <DogSearch /> */}

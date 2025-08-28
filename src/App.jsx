@@ -14,9 +14,9 @@ export default function App() {
       </header>
       <main>
         
-        {/*<MobilityCalc /> */}
-        {/* <ToDo /> */}
-        {/* <DogSearch /> */}
+        <MobilityCalc />
+        <ToDo />
+        <DogSearch />
       </main>
     </>
   )
